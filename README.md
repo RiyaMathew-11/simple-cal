@@ -1,2 +1,2 @@
 # simple-calculator
-SImple calculator for wed using html, css and js
+SImple calculator for web using html, css and js
